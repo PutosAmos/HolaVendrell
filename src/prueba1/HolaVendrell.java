@@ -16,6 +16,7 @@ public class HolaVendrell {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Al mac no li entren virus.");
     }
     
 }
