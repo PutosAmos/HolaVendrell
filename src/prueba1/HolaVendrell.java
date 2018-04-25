@@ -22,6 +22,8 @@ public class HolaVendrell {
         System.out.println("yo tengo un windows de 2500 :) ");
         
         System.out.println("dfjioewgioueshgewhfgoifhiowhgfeohgioue");
+        
+        System.out.println("Cifuentes no dimite por falsificar un master pero si por robar crema del mercadona ganando 100.000 pavos ");
     }
     
 }
