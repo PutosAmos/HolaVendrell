@@ -19,6 +19,7 @@ public class HolaVendrell {
         System.out.println("Al mac no li entren virus.");
         
         System.out.println("AL mac no le entran ni borrachos a las 5 en un pub PD: Disfruta de los 3000€ por algo que hace un windows por 300 euros.");
+        System.out.println("yo tengo un windows de 2500 :) ");
     }
     
 }
